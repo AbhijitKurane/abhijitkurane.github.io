@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.example.autodetectotp",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["54:E4:B8:53:7B:F3:C1:22:D1:71:7D:B6:BC:A7:77:A4:2E:08:84:22:2A:4C:7B:EC:95:6D:3E:1D:0F:0B:73:ED"]
   }
 }]
